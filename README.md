@@ -60,16 +60,3 @@ I thrive in collaborative environments and enjoy solving complex problems throug
 ![GitHub](https://img.shields.io/badge/GitHub-%231E1E1E.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-%231E1E1E.svg?style=for-the-badge&logo=postman&logoColor=%23FF6C37)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%231E1E1E.svg?style=for-the-badge&logo=Canva&logoColor=%2300C4CC)&nbsp;
-
-### ⚙️ GitHub Analytics
-
-<table style="border-radius: 10px; overflow: hidden; border-collapse: separate; border-spacing: 0;">
-  <tr border="0">
-    <td style="border: none; padding: 0;">
-      <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohamedWyel&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" style="border-radius: 10px;"/>
-    </td>
-    <td style="border: none; padding: 0;">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedWyel&layout=compact&langs_count=20&theme=vision-friendly-dark&count_private=true&hide=HTML,CSS,M,Kotlin,Swift,CMake" style="border-radius: 10px;"/>
-    </td>
-  </tr>
-</table>
